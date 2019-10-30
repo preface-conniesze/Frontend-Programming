@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Notable|Playfair+Display&display=swap');
+
+h1 {
+  color: #5d1451;
+  font-family: 'Notable', sans-serif;
+}
+
+h2 {
+  color: #14868c;
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  text-align:center;
+}
+
+.card-blue {
+  background-color: #e6f8f9;
+  padding:24px;
+  margin:16px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.5); /*rgba=red_green_blue >>> shadow color*/
+  width:24px auto;
+}
+
+.card-pink {
+  background-color: #fff1e9;
+  padding:24px;
+  margin:16px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.5); /*rgba=red_green_blue >>> shadow color*/
+  width:24px auto;
+}
+
+.card-green {
+  background-color: #c2e8ce;
+  padding:24px;
+  margin:16px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.5); /*rgba=red_green_blue >>> shadow color*/
+  width:24px auto;
+}
+
+.card-grey {
+  background-color: #e3e7f1;
+  padding:24px;
+  margin:16px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.5); /*rgba=red_green_blue >>> shadow color*/
+  width:24px auto;
+}
+#general-intro {
+  color:Orange;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.text-tomato {
+  color:Tomato;
+}
+
+.img-circle {
+  width:100px;
+  border-radius: 50%;
+}
+
+.img-shadowed {
+  box-shadow: 1px 1px 1px white;
+}
+
+a:hover{
+  color: #94ceca;
+}
+
+.fab:hover {
+  color: #fff4e4;
+}
+
+li {
+  display: inline;
+}
+
+.btn-purple {
+  background-color: #6B72E1;
+  color: white;
+  padding: 10px 10px;
+  border-radius: 4px;
+}
+
+div {
+  width:80%;
+  border-radius: 5px;
+}
+
+
