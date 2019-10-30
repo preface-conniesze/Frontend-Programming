@@ -53,6 +53,12 @@ body {
   box-shadow: 10px 10px 10px rgba(0,0,0,0.5); /*rgba=red_green_blue >>> shadow color*/
   width:24px auto;
 }
+
+.img-circle {
+  width:100px;
+  border-radius: 50%;
+}
+
 #general-intro {
   color:Orange;
   text-decoration: underline;
@@ -61,11 +67,6 @@ body {
 
 .text-tomato {
   color:Tomato;
-}
-
-.img-circle {
-  width:100px;
-  border-radius: 50%;
 }
 
 .img-shadowed {
@@ -95,5 +96,3 @@ div {
   width:80%;
   border-radius: 5px;
 }
-
-
