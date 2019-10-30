@@ -59,28 +59,6 @@ body {
   border-radius: 50%;
 }
 
-#general-intro {
-  color:Orange;
-  text-decoration: underline;
-  font-weight: bold;
-}
-
-.text-tomato {
-  color:Tomato;
-}
-
-.img-shadowed {
-  box-shadow: 1px 1px 1px white;
-}
-
-a:hover{
-  color: #94ceca;
-}
-
-.fab:hover {
-  color: #fff4e4;
-}
-
 li {
   display: inline;
 }
