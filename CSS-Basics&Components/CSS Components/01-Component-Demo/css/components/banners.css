@@ -1,0 +1,18 @@
+.banner{
+  background-size: cover;
+  padding: 150px 0px;
+}
+
+.banner h1{
+  color: grey;
+  font-size: 40px;
+  padding:0px 10px;
+}
+
+.banner p{
+  color: white;
+  font-size: 24px;
+  font-weight: lighter;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  padding:0px 10px;
+}

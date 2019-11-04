@@ -1,0 +1,27 @@
+/* Your banner CSS code here */
+
+.banner{
+  background-size: cover;
+  height:70vh;
+  text-align: center;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.banner h1{
+  color: grey;
+  font-size:50px;
+}
+
+.banner p{
+  color: lightgrey;
+  font-size:25px;
+  font-weight: lighter;
+  margin-bottom:50px;
+}
+
+.banner a{
+  text-decoration: none;
+}
+

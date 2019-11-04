@@ -1,0 +1,43 @@
+/* Your card CSS code here */
+
+.cards{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card{
+  width:30%;
+  margin:10px;
+  border-radius: 1px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.card-body{
+  background-size: cover;
+  background-position: center;
+  height:180px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  text-align: center;
+}
+
+.card-footer{
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.card-footer p{
+  width:40%;
+  text-align: center;
+}
+
+.control{
+  width:60%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
